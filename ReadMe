@@ -1,0 +1,4 @@
+An arduino managed autonomous car park management system.
+This system helps reduce traffic at a parking lot, it displays the available(empty and filled) spots.
+Vehicles are only allowed entry if there is available parking space and denied entry if there isn't.
+Before entering the lcd displays exactly which spots are empty so the Vehicles know where they are going to.
